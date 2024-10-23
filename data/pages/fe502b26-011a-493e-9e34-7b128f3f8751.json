@@ -4,11 +4,11 @@
   "created_by": "lwjameson",
   "title": "Imported Event 1",
   "slug": "imported-event-1",
-  "updated_at": "2024-10-23T17:35:58.591Z",
+  "updated_at": "2024-10-23T17:36:14.685Z",
   "updated_by": "lwjameson",
   "parent": "86d0e409-a91a-4bf8-aa3a-ed04a91295b3",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "ab8a3b6e-515f-4fe7-b5e9-a7eb233c2b68"
   }
